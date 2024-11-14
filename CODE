@@ -1,0 +1,4 @@
+# Data Upstream analysis
+export PATH=/storage/public/home/2008116199/yxd/soft/cellranger/cellranger-7.1.0:$PATH
+cellranger testrun --id=tiny
+/storage/public/home/2008116199/yxd/soft/cellranger/cellranger-8.0.1/bin/cellranger testrun --id=tiny
