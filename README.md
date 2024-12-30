@@ -1,3 +1,3 @@
 # snRNA-seq and ST analysis
 
-Code for Manuscript “Integrating Single-Nucleus and Spatial Transcriptomics Reveals Novel Features of Skeletal Muscle Fibre Type and Its Niche Interactions”
+Code for Manuscript “Novel Features of Skeletal Muscle Fiber and Its Niche are Revealed by Integrating Single-Nucleus and Spatial Transcriptomics Analysis”
